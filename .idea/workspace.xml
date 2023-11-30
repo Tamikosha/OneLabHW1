@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b23208bb-e4f1-49d0-a43b-53757b84ec80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Controller/RatingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/TransactionItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Entity/UserRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Repository/RatingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Repository/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Repository/UserRatingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/SellerAndBuyerRatings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Service/RatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Service/RatingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kzonelab/Service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/ratinglist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userlist.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YqKeUdEJzje6DAoOMypXMLfebu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c497f13b581ab7726f399d7b7d720bd6&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SellerAndBuyerRatings" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="mp3kz.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kzonelab.SellerAndBuyerRatings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b23208bb-e4f1-49d0-a43b-53757b84ec80" name="Changes" comment="" />
+      <created>1701247767952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701247767952</updated>
+      <workItem from="1701247769468" duration="325000" />
+      <workItem from="1701248115476" duration="117000" />
+      <workItem from="1701248254911" duration="5994000" />
+      <workItem from="1701336472506" duration="1982000" />
+      <workItem from="1701340505694" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/kzonelab/Entity/Rating.java</url>
+          <line>10</line>
+          <properties field="id" class="kzonelab.Entity.Rating" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
